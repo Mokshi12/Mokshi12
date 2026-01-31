@@ -35,5 +35,5 @@ Machine Learning | Deep Learning | CNN | TensorFlow | Keras | OpenCV
 - Writing clean, maintainable, production-ready code  
 
 ## 📫 How to Reach Me
-- 💼 LinkedIn: 
+- 💼 LinkedIn: https://www.linkedin.com/in/mokshihr2003
 - 📍 Location: Bengaluru, India  
